@@ -8,3 +8,5 @@ fi
 #export PATH="/Users/tomer.bendavid/anaconda3/bin:$PATH"
 
 . /Users/tomer.bendavid/anaconda3/etc/profile.d/conda.sh
+
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home
